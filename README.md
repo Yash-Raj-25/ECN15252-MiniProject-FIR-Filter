@@ -73,10 +73,10 @@ the circuit setup and waveform outputs observed on the Scope.
 ![Input Signal](001_Input.png)
 
 ### Low-Pass Filter Output
-![Low Pass Output](002_HPF.png)
+![Low Pass Output](003_LPF.png)
 
 ### High-Pass Filter Output
-![High Pass Output](003_LPF.png)
+![High Pass Output](002_HPF.png)
 
 
 
